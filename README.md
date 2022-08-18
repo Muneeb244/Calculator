@@ -1,2 +1,2 @@
 # Calculator
-This is a web based calculator written in pure html, css, javascript.
+This is a web based calculator written in pure html, css andjavascript.
